@@ -1,5 +1,5 @@
 # ResourceAllocationDelayedCSI
-This project contains MATLAB codes for the paper:
+This project contains MATLAB codes for the paper. Please consider citing the paper if you find it of any help. 
 
 L. Liang, J. JoonBeom, S. C. Jha, K. Sivanesan, and G. Y. Li, “Spectrum and power allocation for vehicular communications with delayed CSI feedback,” IEEE Wireless Communications Letters, vol. 6, no. 4, pp. 458–461, Aug. 2017.
 
